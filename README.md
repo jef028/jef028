@@ -1,11 +1,4 @@
-## Hi there 👋
-## Hi there 👋
-## Hi there 👋
-## Hi there 👋
-## Hi there 👋
-## Hi there 👋
-## Hi there 👋
-## Hi there 👋
+##⚡ Fun fact
 
 <!--![](link)
 **jef028/jef028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
