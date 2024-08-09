@@ -1,10 +1,13 @@
 ## Hi there 👋
+## Hi there 👋
+## Hi there 👋
+## Hi there 👋
+## Hi there 👋
+## Hi there 👋
+## Hi there 👋
+## Hi there 👋
 
-<!--Meu nome é jeferson do nasciento 
-
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+<!--![](link)
 **jef028/jef028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
