@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--Meu nome é jeferson do nasciento 
+<!--Meu nome é jeferson do nasciento
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
